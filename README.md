@@ -1,2 +1,2 @@
 ## Introduction
-spring cloud components demo usage
+spring cloud components usage
